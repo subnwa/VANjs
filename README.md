@@ -7,14 +7,4 @@ An API resource you can use for the Valorant game.
 
 Code writing that needs to be done for some static content in the game.
 
-```js
-const languages = require("./src/languages");
-```
-
-```js
-const Tiers = require("./src/Tiers");
-```
-
-```js
-const Map = require("./src/Map");
-```
+![image](https://user-images.githubusercontent.com/68991507/182466214-d71e097b-351e-4db4-a0e6-dbb4898d01bb.png)
